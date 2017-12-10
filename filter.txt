@@ -1,7 +1,6 @@
 [Adblock Plus 2.0]
-! Version: 
+! Version: 0.1
 ! Title: My Personal Filter List
-! Last modified: 
 ! Expires: 7 days (update frequency)
 ! Homepage: 
 !

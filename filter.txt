@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Version: 
-! Title: My Personal Filter List
+! Title: theandychung filter list
 ! Last modified: 
 ! Expires: 7 days (update frequency)
 ! Homepage: 

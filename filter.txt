@@ -1,4 +1,11 @@
 [Adblock Plus 2.0]
+! Version: 
+! Title: My Personal Filter List
+! Last modified: 
+! Expires: 7 days (update frequency)
+! Homepage: 
+!
+
 ||programmer-club.com.tw/images/uuu/160705_ACP_72890.gif
 /w/index.php?title=*:bannercontroller
 18h.mm-cg.com###ArticlesEx_box

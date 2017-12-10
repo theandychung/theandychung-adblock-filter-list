@@ -1,3 +1,4 @@
+[Adblock Plus 2.0]
 ||programmer-club.com.tw/images/uuu/160705_ACP_72890.gif
 /w/index.php?title=*:bannercontroller
 18h.mm-cg.com###ArticlesEx_box

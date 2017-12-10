@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 
+! Version: 20171209
 ! Title: theandychung filter list
 ! Last modified: 
-! Expires: 7 days (update frequency)
-! Homepage: 
+! Expires: 14 days (update frequency)
+! Homepage: https://github.com/theandychung/theandychung-adblock-filter-list
 !
 
 ||programmer-club.com.tw/images/uuu/160705_ACP_72890.gif

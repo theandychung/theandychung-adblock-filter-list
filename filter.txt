@@ -20,6 +20,9 @@ cartoonmad.com##:first-child + [width="732"] > *
 cartoonmad.com##[height="118"]
 cartoonmad.com##TABLE[width="737"] [width="732"] [background="/image/content_box4.gif"] + [align="center"][height="188"]
 cartoonmad.com##IMG[src="http://img.i-gamer.net/image/banner_cartoon_gc.jpg"][height="248"][width="732"]
+www.cartoonmad.com##td[width="160"][valign="top"]
+www.cartoonmad.com##td[align="center"]>table>tbody>tr>td[width="12"]
+www.cartoonmad.com#?#td[align="center"]>table>tbody>tr>td[align="center"]:-abp-has(> iframe)
 
 !book
 en.bookfi.net##noindex

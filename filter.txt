@@ -20,12 +20,20 @@ cartoonmad.com##:first-child + [width="732"] > *
 cartoonmad.com##[height="118"]
 cartoonmad.com##TABLE[width="737"] [width="732"] [background="/image/content_box4.gif"] + [align="center"][height="188"]
 cartoonmad.com##IMG[src="http://img.i-gamer.net/image/banner_cartoon_gc.jpg"][height="248"][width="732"]
-www.cartoonmad.com##td[width="160"][valign="top"]
-www.cartoonmad.com##td[align="center"]>table>tbody>tr>td[width="12"]
-www.cartoonmad.com#?#td[align="center"]>table>tbody>tr>td[align="center"]:-abp-has(> iframe)
+cartoonmad.com##td[width="160"][valign="top"]
+cartoonmad.com##td[align="center"]>table>tbody>tr>td[width="12"]
+cartoonmad.com#?#td[align="center"]>table>tbody>tr>td[align="center"]:-abp-has(> iframe)
+
+!看漫畫
+manhuagui.com##.gg_728
 
 !book
 en.bookfi.net##noindex
 en.bookfi.net##.cBox1
 b-ok.org###searchResultBox > center
 bookzz.org##div[style="width:728; height:90px;overflow: hidden; text-align: left; border-bottom:1px solid #ddd; padding: 20px 0 20px 0; margin: 0 0 20px 0;"]
+
+!原價屋
+coolpc.com.tw###hid
+coolpc.com.tw##body>form[name="S"]>center>table>caption
+coolpc.com.tw##body>form[name="S"]>center>table>tbody>tr>td[style="padding:0"]>div>iframe

@@ -34,12 +34,9 @@ b-ok.org###searchResultBox > center
 bookzz.org##div[style="width:728; height:90px;overflow: hidden; text-align: left; border-bottom:1px solid #ddd; padding: 20px 0 20px 0; margin: 0 0 20px 0;"]
 
 !原價屋
-!原價屋
 coolpc.com.tw###hid
 coolpc.com.tw##body>form[name="S"]>center>table>caption
 coolpc.com.tw##body>form[name="S"]>center>table>tbody>tr>td[style="padding:0"]>div>iframe
-!coolpc.com.tw###Psu
-!coolpc.com.tw###doc
 coolpc.com.tw##body>form[name="S"]>center>table>tbody>tr>td[style="padding:0"]>div>img[height="205"]
 coolpc.com.tw##body>form[name="QP"]
 coolpc.com.tw###tip

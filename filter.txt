@@ -50,3 +50,10 @@ www.demonoid.pw##.bgg
 avgle.com###player_3x2_container
 @@||avgle.com/avideos.php
 avgle.com#@#script:inject(abort-on-property-read.js, ExoDetector)
+
+!Robotic related https://roboticsandautomationnews.com/2015/07/21/top-8-industrial-robot-companies-and-how-many-robots-they-have-around-the-world/812/
+roboticsandautomationnews.com##.modal-container
+roboticsandautomationnews.com###modal
+https://roboticsandautomationnews.com/2015/07/21/top-8-industrial-robot-companies-and-how-many-robots-they-have-around-the-world/812/
+roboticsandautomationnews.com##.tp-animate.tp-reset.tp-overlay
+

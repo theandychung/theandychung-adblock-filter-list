@@ -25,7 +25,8 @@ cartoonmad.com##td[align="center"]>table>tbody>tr>td[width="12"]
 cartoonmad.com#?#td[align="center"]>table>tbody>tr>td[align="center"]:-abp-has(> iframe)
 
 !看漫畫
-manhuagui.com##.gg_728
+!manhuagui.com##.gg_728
+!||www.manhuagui.com^$inline-script
 
 !book
 en.bookfi.net##noindex
@@ -42,3 +43,7 @@ coolpc.com.tw##body>form[name="QP"]
 coolpc.com.tw###tip
 coolpc.com.tw##body>form[name="S"]>center>table>tbody>tr>td[width="95%"]>table[id="Tfix"]>tbody:last-child>tr>td>table[class="doc"]
 coolpc.com.tw##img[src*="http"]
+
+!others
+www.dcard.tw##.ForumAdContainer_adContainer_3JdtU
+www.demonoid.pw##.bgg

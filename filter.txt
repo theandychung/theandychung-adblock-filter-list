@@ -27,7 +27,6 @@ cartoonmad.com#?#td[align="center"]>table>tbody>tr>td[align="center"]:-abp-has(>
 !看漫畫
 ||www.manhuagui.com^$inline-script
 
-
 !book
 en.bookfi.net##noindex
 en.bookfi.net##.cBox1
@@ -47,3 +46,7 @@ coolpc.com.tw##img[src*="http"]
 !others
 www.dcard.tw##.ForumAdContainer_adContainer_3JdtU
 www.demonoid.pw##.bgg
+||www.3dmgame.com/templets/common/images/3dmgamegzh.png$image
+avgle.com###player_3x2_container
+@@||avgle.com/avideos.php
+avgle.com#@#script:inject(abort-on-property-read.js, ExoDetector)

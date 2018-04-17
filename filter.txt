@@ -25,7 +25,7 @@ cartoonmad.com##td[align="center"]>table>tbody>tr>td[width="12"]
 cartoonmad.com#?#td[align="center"]>table>tbody>tr>td[align="center"]:-abp-has(> iframe)
 
 !看漫畫
-||www.manhuagui.com^$inline-script
+manhuagui.com##.gg_728
 
 !book
 en.bookfi.net##noindex

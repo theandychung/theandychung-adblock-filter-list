@@ -26,6 +26,7 @@ cartoonmad.com#?#td[align="center"]>table>tbody>tr>td[align="center"]:-abp-has(>
 
 !看漫畫
 manhuagui.com##.gg_728
+manhuagui.com###Comment
 
 !book
 en.bookfi.net##noindex

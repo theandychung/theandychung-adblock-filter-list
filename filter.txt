@@ -27,7 +27,7 @@ cartoonmad.com#?#td[align="center"]>table>tbody>tr>td[align="center"]:-abp-has(>
 !看漫畫
 manhuagui.com##.gg_728
 manhuagui.com###Comment
-
+ 
 !原價屋
 !remove top ads (QP=top frame)
 coolpc.com.tw##body>form[name="QP"]

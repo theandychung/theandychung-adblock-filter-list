@@ -28,6 +28,25 @@ cartoonmad.com#?#td[align="center"]>table>tbody>tr>td[align="center"]:-abp-has(>
 manhuagui.com##.gg_728
 manhuagui.com###Comment
 
+!原價屋
+!remove top ads (QP=top frame)
+coolpc.com.tw##body>form[name="QP"]
+coolpc.com.tw###hid
+coolpc.com.tw##body>form[name="S"]>center>table>caption
+!remove right ads
+coolpc.com.tw##body>form[name="S"]>center>table>tbody>tr>td[style="padding:0"]>div>iframe
+coolpc.com.tw##body>form[name="S"]>center>table>tbody>tr>td[style="padding:0"]>div>img[height="205"]
+!remove bot ads
+coolpc.com.tw##body>form[name="S"]>center>table>tbody>tr>td[width="95%"]>table[id="Tfix"]>tbody:last-child>tr>td>table[class="doc"]
+!remove opening ads
+coolpc.com.tw###Psu
+coolpc.com.tw###tip
+coolpc.com.tw###doc
+!block ads pictures if not blocked by ublock
+coolpc.com.tw##img[src*="http"]
+!show the hidden scroll bars
+coolpc.com.tw##body:style(overflow: auto !important)
+
 !book
 en.bookfi.net##noindex
 en.bookfi.net##.cBox1
@@ -43,6 +62,9 @@ roboticsandautomationnews.com##.tp-animate.tp-reset.tp-overlay
 !pocket
 getpocket.com###.item_type_spoc
 getpocket.com###.item_recommend.spoc
+
+!glassdoor
+www.glassdoor.com##.modalContainer
 
 !others
 www.dcard.tw##.ForumAdContainer_adContainer_3JdtU

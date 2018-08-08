@@ -22,36 +22,26 @@ cartoonmad.com##IMG[src="http://img.i-gamer.net/image/banner_cartoon_gc.jpg"][he
 cartoonmad.com##td[width="160"][valign="top"]
 cartoonmad.com##td[align="center"]>table>tbody>tr>td[width="12"]
 cartoonmad.com#?#td[align="center"]>table>tbody>tr>td[align="center"]:-abp-has(> iframe)
-cartoonmad.com##tr:nth-of-type(1) > td:nth-of-type(2) > table > tbody > tr:nth-of-type(2)
 
 !看漫畫
 manhuagui.com##.gg_728
 manhuagui.com###Comment
- 
-!原價屋
-!remove top ads (QP=top frame)
-coolpc.com.tw##body>form[name="QP"]
-coolpc.com.tw###hid
-coolpc.com.tw##body>form[name="S"]>center>table>caption
-!remove right ads
-coolpc.com.tw##body>form[name="S"]>center>table>tbody>tr>td[style="padding:0"]>div>iframe
-coolpc.com.tw##body>form[name="S"]>center>table>tbody>tr>td[style="padding:0"]>div>img[height="205"]
-!remove bot ads
-coolpc.com.tw##body>form[name="S"]>center>table>tbody>tr>td[width="95%"]>table[id="Tfix"]>tbody:last-child>tr>td>table[class="doc"]
-!remove opening ads
-coolpc.com.tw###Psu
-coolpc.com.tw###tip
-coolpc.com.tw###doc
-!block ads pictures if not blocked by ublock
-coolpc.com.tw##img[src*="http"]
-!show the hidden scroll bars
-coolpc.com.tw##body:style(overflow: auto !important)
 
 !book
 en.bookfi.net##noindex
 en.bookfi.net##.cBox1
 b-ok.org###searchResultBox > center
 bookzz.org##div[style="width:728; height:90px;overflow: hidden; text-align: left; border-bottom:1px solid #ddd; padding: 20px 0 20px 0; margin: 0 0 20px 0;"]
+
+!原價屋
+coolpc.com.tw###hid
+coolpc.com.tw##body>form[name="S"]>center>table>caption
+coolpc.com.tw##body>form[name="S"]>center>table>tbody>tr>td[style="padding:0"]>div>iframe
+coolpc.com.tw##body>form[name="S"]>center>table>tbody>tr>td[style="padding:0"]>div>img[height="205"]
+coolpc.com.tw##body>form[name="QP"]
+coolpc.com.tw###tip
+coolpc.com.tw##body>form[name="S"]>center>table>tbody>tr>td[width="95%"]>table[id="Tfix"]>tbody:last-child>tr>td>table[class="doc"]
+coolpc.com.tw##img[src*="http"]
 
 !Robotic related https://roboticsandautomationnews.com/2015/07/21/top-8-industrial-robot-companies-and-how-many-robots-they-have-around-the-world/812/
 roboticsandautomationnews.com##.modal-container
@@ -63,17 +53,7 @@ roboticsandautomationnews.com##.tp-animate.tp-reset.tp-overlay
 getpocket.com###.item_type_spoc
 getpocket.com###.item_recommend.spoc
 
-!glassdoor
-www.glassdoor.com##.modalContainer
-
 !others
 www.dcard.tw##.ForumAdContainer_adContainer_3JdtU
 www.demonoid.pw##.bgg
-<<<<<<< HEAD
 ||www.3dmgame.com/templets/common/images/3dmgamegzh.png$image
-=======
-||www.3dmgame.com/templets/common/images/3dmgamegzh.png$image
-avgle.com###player_3x2_container
-@@||avgle.com/avideos.php
-avgle.com#@#script:inject(abort-on-property-read.js, ExoDetector)
->>>>>>> a4be740aab3bc4b2a6548d0f49ecf3cc31429d9f

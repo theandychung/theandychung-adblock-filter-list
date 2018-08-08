@@ -22,7 +22,6 @@ cartoonmad.com##IMG[src="http://img.i-gamer.net/image/banner_cartoon_gc.jpg"][he
 cartoonmad.com##td[width="160"][valign="top"]
 cartoonmad.com##td[align="center"]>table>tbody>tr>td[width="12"]
 cartoonmad.com#?#td[align="center"]>table>tbody>tr>td[align="center"]:-abp-has(> iframe)
-cartoonmad.com##tr:nth-of-type(1) > td:nth-of-type(2) > table > tbody > tr:nth-of-type(2)
 
 !看漫畫
 manhuagui.com##.gg_728

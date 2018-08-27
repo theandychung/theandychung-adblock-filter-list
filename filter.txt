@@ -50,8 +50,13 @@ https://roboticsandautomationnews.com/2015/07/21/top-8-industrial-robot-companie
 roboticsandautomationnews.com##.tp-animate.tp-reset.tp-overlay
 
 !pocket
-getpocket.com###.item_type_spoc
-getpocket.com###.item_recommend.spoc
+!getpocket.com###.item_type_spoc
+!getpocket.com###.item_recommend.spoc
+getpocket.com##item item_type_spoc
+
+!HIDE sci-hub ads for chrome
+sci-hub.*###article:style(margin-left:0px !important)
+sci-hub.*###menu:style(z-index:-1 !important)
 
 !others
 www.dcard.tw##.ForumAdContainer_adContainer_3JdtU

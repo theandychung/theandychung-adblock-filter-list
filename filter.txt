@@ -1,21 +1,58 @@
-! Version: 20180827
-! Title: testttt
+! Version: 20180914
+! Title: theandychung filter list
 ! Last modified: 
 ! Expires: 14 days (update frequency)
-! Homepage: https://github.com/theandychung/LinkedIn-ads-killer
+! Homepage: https://github.com/theandychung/theandychung-adblock-filter-list
 !
 
-!hide top banner ads
-linkedin.com##*[class*=ad-banner-container]
 
-!hide premium blocks
-linkedin.com##*[class*=premium]
+!動漫狂
+!left
+cartoonmad.com##TABLE[align="center"][width="210"]
+!top
+cartoonmad.com##td[align="center"]:-abp-has(table>tbody>tr>td[background*="i-gamer"])
+!top
+cartoonmad.com##TD[align="center"][height="102"]
+!middle
+cartoonmad.com##table[width="890"]:-abp-has(a[href*="fun8"])
+!center manga by deleting arrows
+cartoonmad.com##td[width="160"][valign="top"]
 
-!hide Promoted posts
-linkedin.com##div.relative.ember-view > div:-abp-has(span:-abp-contains(Promoted))
+!看漫畫
+manhuagui.com##*[class*=gg_]
+manhuagui.com###Comment
 
-!hide "improve your * skills posts
-linkedin.com##div.relative.ember-view > div:-abp-has(div:-abp-contains(/Improve your/i))
+!book
+en.bookfi.net##noindex
+en.bookfi.net##.cBox1
+b-ok.org###searchResultBox > center
+bookzz.org##div[style="width:728; height:90px;overflow: hidden; text-align: left; border-bottom:1px solid #ddd; padding: 20px 0 20px 0; margin: 0 0 20px 0;"]
 
-!hide "try premium for free" buttom in notification
-linkedin.com##button:-abp-contains(/Try Premium for free/i)
+!原價屋
+coolpc.com.tw###hid
+coolpc.com.tw##body>form[name="S"]>center>table>caption
+coolpc.com.tw##body>form[name="S"]>center>table>tbody>tr>td[style="padding:0"]>div>iframe
+coolpc.com.tw##body>form[name="S"]>center>table>tbody>tr>td[style="padding:0"]>div>img[height="205"]
+coolpc.com.tw##body>form[name="QP"]
+coolpc.com.tw###tip
+coolpc.com.tw##body>form[name="S"]>center>table>tbody>tr>td[width="95%"]>table[id="Tfix"]>tbody:last-child>tr>td>table[class="doc"]
+coolpc.com.tw##img[src*="http"]
+
+!Robotic related https://roboticsandautomationnews.com/2015/07/21/top-8-industrial-robot-companies-and-how-many-robots-they-have-around-the-world/812/
+roboticsandautomationnews.com##.modal-container
+roboticsandautomationnews.com###modal
+roboticsandautomationnews.com##.tp-animate.tp-reset.tp-overlay
+
+!pocket
+!getpocket.com###.item_type_spoc
+!getpocket.com###.item_recommend.spoc
+getpocket.com##item item_type_spoc
+
+!HIDE sci-hub ads for chrome
+sci-hub.*###article:style(margin-left:0px !important)
+sci-hub.*###menu:style(z-index:-1 !important)
+
+!others
+www.dcard.tw##.ForumAdContainer_adContainer_3JdtU
+www.demonoid.pw##.bgg
+18h.mm-cg.com###ArticlesEx_box

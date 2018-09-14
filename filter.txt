@@ -5,8 +5,6 @@
 ! Homepage: https://github.com/theandychung/theandychung-adblock-filter-list
 !
 
-||programmer-club.com.tw/images/uuu/160705_ACP_72890.gif
-18h.mm-cg.com###ArticlesEx_box
 
 !動漫狂
 !left
@@ -59,3 +57,4 @@ sci-hub.*###menu:style(z-index:-1 !important)
 www.dcard.tw##.ForumAdContainer_adContainer_3JdtU
 www.demonoid.pw##.bgg
 ||www.3dmgame.com/templets/common/images/3dmgamegzh.png$image
+18h.mm-cg.com###ArticlesEx_box

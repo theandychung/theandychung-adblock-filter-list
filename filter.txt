@@ -1,4 +1,4 @@
-! Version: 20180914.2
+! Version: 20180914
 ! Title: theandychung filter list
 ! Last modified: 
 ! Expires: 14 days (update frequency)
@@ -7,24 +7,3 @@
 
 
 !動漫狂
-!left
-cartoonmad.com##TABLE[align="center"][width="210"]
-!top
-cartoonmad.com##td[align="center"]:-abp-has(table>tbody>tr>td[background*="i-gamer"])
-!top
-cartoonmad.com##TD[align="center"][height="102"]
-!middle
-cartoonmad.com##table[width="890"]:-abp-has(a[href*="fun8"])
-!center manga by deleting arrows
-cartoonmad.com##td[width="160"][valign="top"]
-
-!看漫畫
-manhuagui.com##*[class*=gg_]
-manhuagui.com###Comment
-
-!book
-en.bookfi.net##noindex
-en.bookfi.net##.cBox1
-b-ok.org###searchResultBox > center
-bookzz.org##div[style="width:728; height:90px;overflow: hidden; text-align: left; border-bottom:1px solid #ddd; padding: 20px 0 20px 0; margin: 0 0 20px 0;"]
-

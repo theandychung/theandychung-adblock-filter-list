@@ -1,9 +1,21 @@
-! Version: 20180914
-! Title: theandychung filter list
+! Version: 20180827
+! Title: testttt
 ! Last modified: 
 ! Expires: 14 days (update frequency)
-! Homepage: https://github.com/theandychung/theandychung-adblock-filter-list
+! Homepage: https://github.com/theandychung/LinkedIn-ads-killer
 !
 
+!hide top banner ads
+linkedin.com##*[class*=ad-banner-container]
 
-!動漫狂
+!hide premium blocks
+linkedin.com##*[class*=premium]
+
+!hide Promoted posts
+linkedin.com##div.relative.ember-view > div:-abp-has(span:-abp-contains(Promoted))
+
+!hide "improve your * skills posts
+linkedin.com##div.relative.ember-view > div:-abp-has(div:-abp-contains(/Improve your/i))
+
+!hide "try premium for free" buttom in notification
+linkedin.com##button:-abp-contains(/Try Premium for free/i)

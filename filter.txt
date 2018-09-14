@@ -1,4 +1,4 @@
-! Version: 20180910
+! Version: 20180914
 ! Title: theandychung filter list
 ! Last modified: 
 ! Expires: 14 days (update frequency)
@@ -6,9 +6,7 @@
 !
 
 ||programmer-club.com.tw/images/uuu/160705_ACP_72890.gif
-/w/index.php?title=*:bannercontroller
 18h.mm-cg.com###ArticlesEx_box
-forum.gamer.com.tw##div[style="position: fixed; left: 20px; right: 20px; bottom: 20px; z-index: 99; padding: 15px 30px 15px 15px; border: 1px solid rgb(225, 211, 184); border-radius: 3px; line-height: 1.5; background: rgb(255, 255, 219); color: rgb(112, 89, 48);"]
 
 !動漫狂
 !left

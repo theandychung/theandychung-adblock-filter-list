@@ -41,7 +41,6 @@ coolpc.com.tw##img[src*="http"]
 !Robotic related https://roboticsandautomationnews.com/2015/07/21/top-8-industrial-robot-companies-and-how-many-robots-they-have-around-the-world/812/
 roboticsandautomationnews.com##.modal-container
 roboticsandautomationnews.com###modal
-https://roboticsandautomationnews.com/2015/07/21/top-8-industrial-robot-companies-and-how-many-robots-they-have-around-the-world/812/
 roboticsandautomationnews.com##.tp-animate.tp-reset.tp-overlay
 
 !pocket
@@ -56,5 +55,4 @@ sci-hub.*###menu:style(z-index:-1 !important)
 !others
 www.dcard.tw##.ForumAdContainer_adContainer_3JdtU
 www.demonoid.pw##.bgg
-||www.3dmgame.com/templets/common/images/3dmgamegzh.png$image
 18h.mm-cg.com###ArticlesEx_box

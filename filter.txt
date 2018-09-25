@@ -12,11 +12,11 @@ cartoonmad.com##TABLE[align="center"][width="210"]
 !top
 cartoonmad.com##td[align="center"]:-abp-has(table>tbody>tr>td[background*="i-gamer"])
 !top
-cartoonmad.com##TD[align="center"][height="102"]
+cartonmad.com##TD[align="center"][height="102"]
 !middle
 cartoonmad.com##table[width="890"]:-abp-has(a[href*="fun8"])
 !center manga by deleting arrows
-cartoonmad.com##td[width="160"][valign="top"]
+cartonmad.com##td[width="160"][valign="top"]
 
 !看漫畫
 manhuagui.com##*[class*=gg_]

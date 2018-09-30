@@ -1,4 +1,4 @@
-! Version: 20180925
+! Version: 20180930
 ! Title: theandychung filter list
 ! Last modified: 
 ! Expires: 14 days (update frequency)
@@ -48,6 +48,10 @@ getpocket.com###.item_type_spoc.spoc_list_item spoc
 !HIDE sci-hub ads for chrome
 sci-hub.*###article:style(margin-left:0px !important)
 sci-hub.*###menu:style(z-index:-1 !important)
+
+!dcard
+!banner on homepage
+www.dcard.tw##[class*=ForumBanner]
 
 !others
 www.dcard.tw##.ForumAdContainer_adContainer_3JdtU

@@ -5,7 +5,6 @@
 ! Homepage: https://github.com/theandychung/theandychung-adblock-filter-list
 !
 
-
 !動漫狂
 !left
 cartoonmad.com##TABLE[align="center"][width="210"]
@@ -14,9 +13,9 @@ cartoonmad.com##td[align="center"]:-abp-has(table>tbody>tr>td[background*="i-gam
 !middle
 cartoonmad.com##table[width="890"]:-abp-has(a[href*="fun8"])
 !center manga by deleting arrows
-cartonsmad.com##td[width="160"][valign="top"]
+cartoonmad.com##td[width="160"][valign="top"]
 !top
-cartonsmad.com##TD[align="center"][height="102"]
+cartoonmad.com##TD[align="center"][height="102"]
 
 !看漫畫
 manhuagui.com##*[class*=gg_]

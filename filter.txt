@@ -1,4 +1,4 @@
-! Version: 20180930
+! Version: 20181004
 ! Title: theandychung filter list
 ! Last modified: 
 ! Expires: 14 days (update frequency)
@@ -51,7 +51,7 @@ sci-hub.*###menu:style(z-index:-1 !important)
 
 !dcard
 !banner on homepage
-www.dcard.tw##[class*=ForumBanner]
+www.dcard.tw##div[aria-hidden="false"][data-swipeable="true"][style="width: 100%; flex-shrink: 0; overflow: auto;"]
 
 !others
 www.dcard.tw##.ForumAdContainer_adContainer_3JdtU

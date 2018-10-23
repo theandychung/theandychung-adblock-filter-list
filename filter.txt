@@ -1,4 +1,4 @@
-! Version: 20181004
+! Version: 20181022
 ! Title: theandychung filter list
 ! Last modified: 
 ! Expires: 14 days (update frequency)
@@ -43,7 +43,7 @@ roboticsandautomationnews.com###modal
 roboticsandautomationnews.com##.tp-animate.tp-reset.tp-overlay
 
 !pocket
-getpocket.com###.item_type_spoc.spoc_list_item spoc
+getpocket.com##.item_type_spoc.spoc_list_item.spoc
 
 !HIDE sci-hub ads for chrome
 sci-hub.*###article:style(margin-left:0px !important)

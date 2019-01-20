@@ -51,9 +51,12 @@ sci-hub.*###menu:style(z-index:-1 !important)
 
 !dcard
 !banner on homepage
+www.dcard.tw##[class*=ForumBanner]
 www.dcard.tw##div[aria-hidden="false"][data-swipeable="true"][style="width: 100%; flex-shrink: 0; overflow: auto;"]
+www.dcard.tw##.ForumAdContainer_adContainer_3JdtU
 
 !others
-www.dcard.tw##.ForumAdContainer_adContainer_3JdtU
 www.demonoid.pw##.bgg
-18h.mm-cg.com###ArticlesEx_box
+campus.datacamp.com##.modal-container
+hackforums.net##.mam-header
+www.reddit.com##.premium-banner

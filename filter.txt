@@ -1,4 +1,4 @@
-! Version: 20190119
+! Version: 20190130
 ! Title: theandychung filter list
 ! Last modified: 
 ! Expires: 14 days (update frequency)
@@ -60,3 +60,5 @@ www.demonoid.pw##.bgg
 campus.datacamp.com##.modal-container
 hackforums.net##.mam-header
 www.reddit.com##.premium-banner
+wsj.com###cx-articlecover
+udn.com###show_box

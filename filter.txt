@@ -21,6 +21,10 @@ cartoonmad.com##TD[align="center"][height="102"]
 manhuagui.com##*[class*=gg_]
 manhuagui.com###Comment
 
+!dm5
+www.dm5.com##.bottom.index-right-float
+www.dm5.com##body:style(overflow: auto !important;)
+
 !book
 en.bookfi.net##noindex
 en.bookfi.net##.cBox1

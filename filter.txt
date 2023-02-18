@@ -16,6 +16,7 @@ cartoonmad.com##table[width="890"]:-abp-has(a[href*="fun8"])
 cartoonmad.com##td[width="160"][valign="top"]
 !top
 cartoonmad.com##TD[align="center"][height="102"]
+www.cartoonmad.com###info
 
 !看漫畫
 manhuagui.com##*[class*=gg_]
